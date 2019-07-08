@@ -1,2 +1,0 @@
-# MyPromise
-Created with CodeSandbox
